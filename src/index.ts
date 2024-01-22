@@ -1,3 +1,2 @@
-// Here will go the server configuration
-let startServer: string = "starting server";
-console.log(startServer);
+const test: string = "test";
+console.log(test);
