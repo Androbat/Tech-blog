@@ -1,0 +1,16 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "The following project is meant to be a simple blog, which its main purpose is to share programming and technology related stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "typescript": "^5.3.3"
+  }
+}
